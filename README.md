@@ -1,0 +1,4 @@
+GitTraining
+===========
+
+Git Training repository
